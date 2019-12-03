@@ -9,7 +9,7 @@
 title: Xia Ling
 brief-intro: Python&.Net Dev Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gaohaoyang.github.io" # the base hostname & protocol for your site
+url: "https:www.ixialing.com" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
@@ -56,5 +56,5 @@ tag_dir: tag/
 excerpt_separator: "\n\n\n\n"
 
 # paginate
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate: 6
